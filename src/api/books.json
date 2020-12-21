@@ -1,0 +1,32 @@
+{
+  "books": [
+    {
+      "name": "Mülksüzler",
+      "rating": "8.7",
+      "overview": "Bilimkurgu ve fantastik roman türlerinin gelmiş geçmiş en güçlü yazarlarından olan Ursula K. Le Guin, Mülksüzler romanı ile dünya tarihinin en büyük sistem çatışmalarına bütünsel ve alegorik bir bakış açısıyla yaklaşıyor. 1974’te yayımlanan roman, ABD ve Rusya arasındaki Soğuk Savaş’a olan eleştirilerinden dolayı o dönemden günümüze büyük bir ilgiyle okunmaya devam ediyor.",
+      "imageURL": "https://i.idefix.com/cache/500x400-0/originals/0000000068234-1.jpg",
+      "id": 1
+    },
+    {
+      "name": "Kadimzamanlar ve Diğer Vakitler",
+      "rating": "7.7",
+      "imageURL": "https://i.idefix.com/cache/500x400-0/originals/0001897270001-1.jpg",
+      "overview": "Dört melek tarafından korunan Kadimzamanlar, evrenin kalbidir. Burada zaman farklı akar. Bu ne hükümetlerin, ne generallerin ne de başkanların tarihidir. Kadimzamanlar’ın her sakini kendi zamanının hikâyesini yazar: İnancını yitiren toprak sahibi Popielski, geçmişinden kopmak istemeyen Michał, kendini ormana hapseden...",
+      "id": 2
+    },
+    {
+      "name": "Şeker Portakalı",
+      "rating": "8.7",
+      "overview": "Acı dolu bir hayat sürdürmek ve bunu yaşamın olağan seyri gibi kabul etmek, ta ki hayattaki en gerçek ve karşı konulamaz acının ne olduğunu öğrenene kadar… Şeker Portakalı; yoksulluk ve sevgisizlik içinde yaşayan küçük Zeze’nin dünyasını, okuyucusuna yalnızca minik bir çocuğun gözünden değil, evrensel bir hakikat penceresinden sunuyor.Brezilyalı yazar... ",
+      "imageURL": "https://i.idefix.com/cache/500x400-0/originals/0000000064031-1.jpg",
+      "id": 3
+    },
+    {
+      "name": "Çernobil Duası-Geleceğin Tarihi",
+      "rating": "8.5",
+      "overview": "2015 Nobel Edebiyat Ödülü’nün sahibi Svetlana Aleksiyeviç’in büyük eserlerinden Çernobil Duası, Çernobil Nükleer Felaketi ve sonrasında yaşananlara dair can acıtıcı bir sözlü tarih çalışması…İsveç Akademisi, Svetlana Aleksiyeviç’e Nobel Ödülü verdiğinde yazarın “yeni bir edebi tür” yarattığını belirtmiş, eserlerini de “duyguların ve ruhun bir tarihi” sözcükleriyle betimlemişti.",
+      "imageURL": "https://i.idefix.com/cache/500x400-0/originals/0001699484001-1.jpg",
+      "id": 4
+    }
+  ]
+}
